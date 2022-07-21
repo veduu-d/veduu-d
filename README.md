@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @veduu-d
-- 👀 I’m interested in artificial intelligence and data science
-- 🌱 I’m currently learning computer science engineering
-- 💞️ I’m looking to collaborate on learning artificial intelligence
-- 📫 How to reach me dhakev4@gmail.com
+- 👀 I’m interested in Java programming language
+- 🌱 I’m pursuing my B.Tech degree in computer science engineering
+- 💞️ I’m looking to work as a Java Developer
+- 📫 How to reach me vedikadahake4@gmail.com
 
 <!---
 veduu-d/veduu-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
